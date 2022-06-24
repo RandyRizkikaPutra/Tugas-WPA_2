@@ -120,11 +120,11 @@ CREATE TABLE `tbl_operator` (
 --
 
 INSERT INTO `tbl_operator` (`id_operator`, `nama_operator`, `username`, `password`, `email`, `created_at`, `updated_at`, `deleted_at`) VALUES
-(1, 'meirynda', 'root', '', 'sunwoo@gmail.com', '0000-00-00 00:00:00', '0000-00-00 00:00:00', NULL),
-(2, 'kim sunwoo', 'lsnwoo', '', 'lwnsoo@gmail.com', '0000-00-00 00:00:00', '0000-00-00 00:00:00', NULL),
-(3, 'kim sunwoo', 'kimsunwoo', '', 'meirynda31@gmail.com', '0000-00-00 00:00:00', '0000-00-00 00:00:00', NULL),
+(1, 'Randyrizkika', 'root', '', 'sunwoo@gmail.com', '0000-00-00 00:00:00', '0000-00-00 00:00:00', NULL),
+(2, 'dhimas', 'lsnwoo', '', 'nanda123@gmail.com', '0000-00-00 00:00:00', '0000-00-00 00:00:00', NULL),
+(3, 'dadang', 'kimsunwoo', '', 'randyrizkika@gmail.com', '0000-00-00 00:00:00', '0000-00-00 00:00:00', NULL),
 (5, 'admin', 'root', '', 'admin@gmail.com', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '2022-06-23 19:31:08'),
-(6, 'ilham', 'dzikri14', '636256', 'dzikriiskandar14@gmail.com', '0000-00-00 00:00:00', '0000-00-00 00:00:00', NULL);
+(6, 'afif', 'khanaya14', '636256', 'rudiana14@gmail.com', '0000-00-00 00:00:00', '0000-00-00 00:00:00', NULL);
 
 --
 -- Indexes for dumped tables
